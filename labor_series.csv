@@ -1,0 +1,697 @@
+Year,Age,Labor,Category
+1962,1,.52503884,employment
+1963,1,.53982371,employment
+1964,1,.54214436,employment
+1965,1,.54747957,employment
+1966,1,.56134945,employment
+1967,1,.56985486,employment
+1968,1,.57229513,employment
+1969,1,.58210921,employment
+1970,1,.58363408,employment
+1971,1,.55603397,employment
+1972,1,.57689142,employment
+1973,1,.61286932,employment
+1974,1,.62157232,employment
+1975,1,.57849151,employment
+1976,1,.62248158,employment
+1977,1,.64027506,employment
+1978,1,.66272086,employment
+1979,1,.66898614,employment
+1980,1,.64867485,employment
+1981,1,.63928628,employment
+1982,1,.61609113,employment
+1983,1,.62048,employment
+1984,1,.64819944,employment
+1985,1,.65577751,employment
+1986,1,.66183364,employment
+1987,1,.66877776,employment
+1988,1,.67545414,employment
+1989,1,.67553467,employment
+1990,1,.66208351,employment
+1991,1,.6385178,employment
+1992,1,.63678217,employment
+1993,1,.64267761,employment
+1994,1,.64870626,employment
+1995,1,.65267032,employment
+1996,1,.64914167,employment
+1997,1,.65841317,employment
+1998,1,.66752034,employment
+1999,1,.66752845,employment
+2000,1,.67218202,employment
+2001,1,.65658289,employment
+2002,1,.63778383,employment
+2003,1,.62513459,employment
+2004,1,.62800848,employment
+2005,1,.6319918,employment
+2006,1,.63585544,employment
+2007,1,.62629396,employment
+2008,1,.60822749,employment
+2009,1,.55850875,employment
+2010,1,.54494566,employment
+2011,1,.54349267,employment
+2012,1,.5504232,employment
+2013,1,.55284595,employment
+2014,1,.56791586,employment
+2015,1,.57722282,employment
+2016,1,.58801579,employment
+2017,1,.595581,employment
+2018,1,.59618682,employment
+2019,1,.60734594,employment
+1962,2,.65435016,employment
+1963,2,.66191697,employment
+1964,2,.66425264,employment
+1965,2,.67033982,employment
+1966,2,.67835283,employment
+1967,2,.68385184,employment
+1968,2,.69329315,employment
+1969,2,.69839078,employment
+1970,2,.69864225,employment
+1971,2,.68794471,employment
+1972,2,.69522762,employment
+1973,2,.7001726,employment
+1974,2,.70693099,employment
+1975,2,.68683064,employment
+1976,2,.70551074,employment
+1977,2,.71902955,employment
+1978,2,.73610538,employment
+1979,2,.74675196,employment
+1980,2,.74302775,employment
+1981,2,.74724358,employment
+1982,2,.73555112,employment
+1983,2,.73799556,employment
+1984,2,.75887609,employment
+1985,2,.76739836,employment
+1986,2,.77362913,employment
+1987,2,.78379947,employment
+1988,2,.79184651,employment
+1989,2,.79948556,employment
+1990,2,.79656321,employment
+1991,2,.78619337,employment
+1992,2,.7830795,employment
+1993,2,.78580314,employment
+1994,2,.79266775,employment
+1995,2,.79754412,employment
+1996,2,.80227017,employment
+1997,2,.80869693,employment
+1998,2,.81257778,employment
+1999,2,.81410509,employment
+2000,2,.8143664,employment
+2001,2,.80490428,employment
+2002,2,.79315692,employment
+2003,2,.78751391,employment
+2004,2,.78992301,employment
+2005,2,.79336011,employment
+2006,2,.79784089,employment
+2007,2,.79884124,employment
+2008,2,.79046398,employment
+2009,2,.75666112,employment
+2010,2,.7508142,employment
+2011,2,.75080824,employment
+2012,2,.75721127,employment
+2013,2,.75930613,employment
+2014,2,.76656175,employment
+2015,2,.7728672,employment
+2016,2,.77996445,employment
+2017,2,.78672421,employment
+2018,2,.79563612,employment
+2019,2,.79818833,employment
+1962,3,.5902009,employment
+1963,3,.59476835,employment
+1964,3,.58950877,employment
+1965,3,.59816307,employment
+1966,3,.59927464,employment
+1967,3,.60110444,employment
+1968,3,.60995692,employment
+1969,3,.60906315,employment
+1970,3,.60581738,employment
+1971,3,.59805733,employment
+1972,3,.58302838,employment
+1973,3,.57512158,employment
+1974,3,.57496035,employment
+1975,3,.54574186,employment
+1976,3,.54306352,employment
+1977,3,.54462004,employment
+1978,3,.54993021,employment
+1979,3,.5503611,employment
+1980,3,.53960872,employment
+1981,3,.53118134,employment
+1982,3,.52237076,employment
+1983,3,.51452506,employment
+1984,3,.51841938,employment
+1985,3,.51894468,employment
+1986,3,.51877886,employment
+1987,3,.52539802,employment
+1988,3,.52843851,employment
+1989,3,.53723603,employment
+1990,3,.54007256,employment
+1991,3,.53177088,employment
+1992,3,.53344804,employment
+1993,3,.53780991,employment
+1994,3,.54496515,employment
+1995,3,.55238843,employment
+1996,3,.55930734,employment
+1997,3,.57268423,employment
+1998,3,.58038938,employment
+1999,3,.57849151,employment
+2000,3,.58112532,employment
+2001,3,.58801073,employment
+2002,3,.59811175,employment
+2003,3,.59972227,employment
+2004,3,.6002515,employment
+2005,3,.60963571,employment
+2006,3,.61857253,employment
+2007,3,.62171549,employment
+2008,3,.62433964,employment
+2009,3,.60612154,employment
+2010,3,.60339689,employment
+2011,3,.60313231,employment
+2012,3,.6080181,employment
+2013,3,.61152458,employment
+2014,3,.61672902,employment
+2015,3,.61676961,employment
+2016,3,.6219731,employment
+2017,3,.62861156,employment
+2018,3,.63424927,employment
+2019,3,.63939357,employment
+1962,4,.19030294,employment
+1963,4,.17057772,employment
+1964,4,.17534557,employment
+1965,4,.17564137,employment
+1966,4,.16957805,employment
+1967,4,.16042717,employment
+1968,4,.16158424,employment
+1969,4,.17158128,employment
+1970,4,.16879788,employment
+1971,4,.15474749,employment
+1972,4,.15328851,employment
+1973,4,.14411154,employment
+1974,4,.13558282,employment
+1975,4,.13375494,employment
+1976,4,.12659699,employment
+1977,4,.1259505,employment
+1978,4,.1294715,employment
+1979,4,.12908152,employment
+1980,4,.12232988,employment
+1981,4,.12023323,employment
+1982,4,.11660846,employment
+1983,4,.11515442,employment
+1984,4,.10867245,employment
+1985,4,.10485426,employment
+1986,4,.10658034,employment
+1987,4,.10849739,employment
+1988,4,.11224413,employment
+1989,4,.11529238,employment
+1990,4,.11499175,employment
+1991,4,.11146751,employment
+1992,4,.11114897,employment
+1993,4,.10939658,employment
+1994,4,.11955784,employment
+1995,4,.11801501,employment
+1996,4,.11763586,employment
+1997,4,.1188277,employment
+1998,4,.12058512,employment
+1999,4,.12435903,employment
+2000,4,.12855653,employment
+2001,4,.13024335,employment
+2002,4,.12992109,employment
+2003,4,.13724351,employment
+2004,4,.1420158,employment
+2005,4,.14854625,employment
+2006,4,.15331785,employment
+2007,4,.15870216,employment
+2008,4,.16384546,employment
+2009,4,.16251191,employment
+2010,4,.1638304,employment
+2011,4,.17093189,employment
+2012,4,.17699608,employment
+2013,4,.18003741,employment
+2014,4,.18143971,employment
+2015,4,.18631095,employment
+2016,4,.18849289,employment
+2017,4,.19135247,employment
+2018,4,.19334148,employment
+2019,4,.19871792,employment
+1962,1,.11641487,unemployment
+1963,1,.11360309,unemployment
+1964,1,.10882341,unemployment
+1965,1,.095161945,unemployment
+1966,1,.072024405,unemployment
+1967,1,.069342323,unemployment
+1968,1,.07541009,unemployment
+1969,1,.070367724,unemployment
+1970,1,.083476253,unemployment
+1971,1,.12032105,unemployment
+1972,1,.11738702,unemployment
+1973,1,.092754617,unemployment
+1974,1,.096196853,unemployment
+1975,1,.16097493,unemployment
+1976,1,.13624862,unemployment
+1977,1,.12679273,unemployment
+1978,1,.10984337,unemployment
+1979,1,.10628276,unemployment
+1980,1,.12882724,unemployment
+1981,1,.13972326,unemployment
+1982,1,.1671913,unemployment
+1983,1,.16175555,unemployment
+1984,1,.13004625,unemployment
+1985,1,.12437084,unemployment
+1986,1,.12178218,unemployment
+1987,1,.11049107,unemployment
+1988,1,.09981709,unemployment
+1989,1,.099064648,unemployment
+1990,1,.10223296,unemployment
+1991,1,.12407637,unemployment
+1992,1,.13001251,unemployment
+1993,1,.12129547,unemployment
+1994,1,.11269482,unemployment
+1995,1,.1072918,unemployment
+1996,1,.1086299,unemployment
+1997,1,.10203753,unemployment
+1998,1,.09275528,unemployment
+1999,1,.08859773,unemployment
+2000,1,.084950514,unemployment
+2001,1,.095527969,unemployment
+2002,1,.111099,unemployment
+2003,1,.11490395,unemployment
+2004,1,.10799491,unemployment
+2005,1,.10152488,unemployment
+2006,1,.096160248,unemployment
+2007,1,.09677694,unemployment
+2008,1,.117483,unemployment
+2009,1,.16784026,unemployment
+2010,1,.17283861,unemployment
+2011,1,.16387759,unemployment
+2012,1,.1508653,unemployment
+2013,1,.14549588,unemployment
+2014,1,.12658781,unemployment
+2015,1,.10987832,unemployment
+2016,1,.096622862,unemployment
+2017,1,.085932642,unemployment
+2018,1,.08112812,unemployment
+2019,1,.081587851,unemployment
+1962,2,.051758565,unemployment
+1963,2,.050767601,unemployment
+1964,2,.045409452,unemployment
+1965,2,.038901322,unemployment
+1966,2,.030170359,unemployment
+1967,2,.028813332,unemployment
+1968,2,.026271295,unemployment
+1969,2,.023167521,unemployment
+1970,2,.033589136,unemployment
+1971,2,.046205033,unemployment
+1972,2,.042153891,unemployment
+1973,2,.03701089,unemployment
+1974,2,.037169654,unemployment
+1975,2,.071242683,unemployment
+1976,2,.057169214,unemployment
+1977,2,.051494524,unemployment
+1978,2,.042997893,unemployment
+1979,2,.041664977,unemployment
+1980,2,.055708956,unemployment
+1981,2,.058746975,unemployment
+1982,2,.078912996,unemployment
+1983,2,.079977773,unemployment
+1984,2,.061091699,unemployment
+1985,2,.05817353,unemployment
+1986,2,.057077091,unemployment
+1987,2,.050470185,unemployment
+1988,2,.044606164,unemployment
+1989,2,.042076994,unemployment
+1990,2,.045868002,unemployment
+1991,2,.057097137,unemployment
+1992,2,.063686475,unemployment
+1993,2,.058245443,unemployment
+1994,2,.049772419,unemployment
+1995,2,.04501757,unemployment
+1996,2,.043207668,unemployment
+1997,2,.039277069,unemployment
+1998,2,.035270624,unemployment
+1999,2,.032316256,unemployment
+2000,2,.030888705,unemployment
+2001,2,.038372487,unemployment
+2002,2,.048528913,unemployment
+2003,2,.050736077,unemployment
+2004,2,.045898464,unemployment
+2005,2,.041991059,unemployment
+2006,2,.03816114,unemployment
+2007,2,.037960198,unemployment
+2008,2,.04885637,unemployment
+2009,2,.083488502,unemployment
+2010,2,.086604029,unemployment
+2011,2,.08016593,unemployment
+2012,2,.07095205,unemployment
+2013,2,.063716218,unemployment
+2014,2,.05290249,unemployment
+2015,2,.045258883,unemployment
+2016,2,.04213424,unemployment
+2017,2,.037867013,unemployment
+2018,2,.03308155,unemployment
+2019,2,.0319901,unemployment
+1962,3,.047235917,unemployment
+1963,3,.047384702,unemployment
+1964,3,.049206186,unemployment
+1965,3,.036367148,unemployment
+1966,3,.030580191,unemployment
+1967,3,.025139859,unemployment
+1968,3,.023806384,unemployment
+1969,3,.020487346,unemployment
+1970,3,.029721139,unemployment
+1971,3,.038046207,unemployment
+1972,3,.038821757,unemployment
+1973,3,.031891357,unemployment
+1974,3,.028844766,unemployment
+1975,3,.054395143,unemployment
+1976,3,.044599447,unemployment
+1977,3,.038521092,unemployment
+1978,3,.029304661,unemployment
+1979,3,.027803417,unemployment
+1980,3,.0334072,unemployment
+1981,3,.037027292,unemployment
+1982,3,.053015601,unemployment
+1983,3,.055783033,unemployment
+1984,3,.045946021,unemployment
+1985,3,.042295586,unemployment
+1986,3,.040645204,unemployment
+1987,3,.034833234,unemployment
+1988,3,.031419072,unemployment
+1989,3,.031806014,unemployment
+1990,3,.032895647,unemployment
+1991,3,.041443534,unemployment
+1992,3,.050672039,unemployment
+1993,3,.046220884,unemployment
+1994,3,.041116811,unemployment
+1995,3,.035922535,unemployment
+1996,3,.034368087,unemployment
+1997,3,.029232083,unemployment
+1998,3,.026195681,unemployment
+1999,3,.027029295,unemployment
+2000,3,.024822785,unemployment
+2001,3,.030549176,unemployment
+2002,3,.038953591,unemployment
+2003,3,.041039709,unemployment
+2004,3,.037696052,unemployment
+2005,3,.033555344,unemployment
+2006,3,.030282909,unemployment
+2007,3,.030524738,unemployment
+2008,3,.037180435,unemployment
+2009,3,.0664922,unemployment
+2010,3,.071538664,unemployment
+2011,3,.06600818,unemployment
+2012,3,.060035244,unemployment
+2013,3,.053411257,unemployment
+2014,3,.04409603,unemployment
+2015,3,.038051806,unemployment
+2016,3,.035264123,unemployment
+2017,3,.030986046,unemployment
+2018,3,.029128049,unemployment
+2019,3,.026547495,unemployment
+1962,4,.043644253,unemployment
+1963,4,.045780085,unemployment
+1964,4,.047324069,unemployment
+1965,4,.042438839,unemployment
+1966,4,.031417642,unemployment
+1967,4,.028097549,unemployment
+1968,4,.034162711,unemployment
+1969,4,.024751013,unemployment
+1970,4,.03174118,unemployment
+1971,4,.035982054,unemployment
+1972,4,.03484438,unemployment
+1973,4,.025461799,unemployment
+1974,4,.032041796,unemployment
+1975,4,.049279783,unemployment
+1976,4,.050527595,unemployment
+1977,4,.050390933,unemployment
+1978,4,.038042277,unemployment
+1979,4,.033440381,unemployment
+1980,4,.030172229,unemployment
+1981,4,.030646674,unemployment
+1982,4,.035082676,unemployment
+1983,4,.035419025,unemployment
+1984,4,.031437736,unemployment
+1985,4,.031327456,unemployment
+1986,4,.030268721,unemployment
+1987,4,.024414301,unemployment
+1988,4,.025188586,unemployment
+1989,4,.026668521,unemployment
+1990,4,.029925341,unemployment
+1991,4,.032955945,unemployment
+1992,4,.036351558,unemployment
+1993,4,.030960551,unemployment
+1994,4,.03967236,unemployment
+1995,4,.039303176,unemployment
+1996,4,.035000943,unemployment
+1997,4,.032099124,unemployment
+1998,4,.030555708,unemployment
+1999,4,.029479302,unemployment
+2000,4,.029620117,unemployment
+2001,4,.02903918,unemployment
+2002,4,.035406154,unemployment
+2003,4,.036981784,unemployment
+2004,4,.035711758,unemployment
+2005,4,.033803109,unemployment
+2006,4,.028511943,unemployment
+2007,4,.032037906,unemployment
+2008,4,.041791704,unemployment
+2009,4,.063541159,unemployment
+2010,4,.066020884,unemployment
+2011,4,.06329684,unemployment
+2012,4,.060954396,unemployment
+2013,4,.052006155,unemployment
+2014,4,.045425408,unemployment
+2015,4,.037593391,unemployment
+2016,4,.03769663,unemployment
+2017,4,.035033889,unemployment
+2018,4,.032215685,unemployment
+2019,4,.030730944,unemployment
+1962,1,.64145368,labor force
+1963,1,.65342677,labor force
+1964,1,.65096778,labor force
+1965,1,.64264154,labor force
+1966,1,.63337386,labor force
+1967,1,.63919717,labor force
+1968,1,.6477052,labor force
+1969,1,.65247691,labor force
+1970,1,.66711032,labor force
+1971,1,.676355,labor force
+1972,1,.69427842,labor force
+1973,1,.70562392,labor force
+1974,1,.71776915,labor force
+1975,1,.73946643,labor force
+1976,1,.75873017,labor force
+1977,1,.76706779,labor force
+1978,1,.77256423,labor force
+1979,1,.77526891,labor force
+1980,1,.77750206,labor force
+1981,1,.77900952,labor force
+1982,1,.7832824,labor force
+1983,1,.78223556,labor force
+1984,1,.77824569,labor force
+1985,1,.78014833,labor force
+1986,1,.78361583,labor force
+1987,1,.77926886,labor force
+1988,1,.77527124,labor force
+1989,1,.77459931,labor force
+1990,1,.76431644,labor force
+1991,1,.76259416,labor force
+1992,1,.76679468,labor force
+1993,1,.76397306,labor force
+1994,1,.76140106,labor force
+1995,1,.75996214,labor force
+1996,1,.75777155,labor force
+1997,1,.76045072,labor force
+1998,1,.7602756,labor force
+1999,1,.75612617,labor force
+2000,1,.75713253,labor force
+2001,1,.75211084,labor force
+2002,1,.74888283,labor force
+2003,1,.74003851,labor force
+2004,1,.7360034,labor force
+2005,1,.73351669,labor force
+2006,1,.73201567,labor force
+2007,1,.72307092,labor force
+2008,1,.72571051,labor force
+2009,1,.726349,labor force
+2010,1,.71778429,labor force
+2011,1,.70737028,labor force
+2012,1,.70128852,labor force
+2013,1,.69834185,labor force
+2014,1,.69450366,labor force
+2015,1,.68710113,labor force
+2016,1,.68463868,labor force
+2017,1,.68151367,labor force
+2018,1,.67731494,labor force
+2019,1,.68893379,labor force
+1962,2,.70610875,labor force
+1963,2,.71268457,labor force
+1964,2,.70966208,labor force
+1965,2,.70924115,labor force
+1966,2,.70852321,labor force
+1967,2,.7126652,labor force
+1968,2,.71956444,labor force
+1969,2,.72155833,labor force
+1970,2,.73223138,labor force
+1971,2,.73414975,labor force
+1972,2,.73738152,labor force
+1973,2,.73718351,labor force
+1974,2,.74410063,labor force
+1975,2,.75807333,labor force
+1976,2,.76267993,labor force
+1977,2,.77052408,labor force
+1978,2,.77910328,labor force
+1979,2,.78841692,labor force
+1980,2,.79873669,labor force
+1981,2,.80599058,labor force
+1982,2,.81446409,labor force
+1983,2,.81797332,labor force
+1984,2,.81996781,labor force
+1985,2,.82557189,labor force
+1986,2,.83070624,labor force
+1987,2,.83426964,labor force
+1988,2,.83645266,labor force
+1989,2,.84156257,labor force
+1990,2,.84243119,labor force
+1991,2,.84329051,labor force
+1992,2,.846766,labor force
+1993,2,.84404856,labor force
+1994,2,.84244019,labor force
+1995,2,.84256172,labor force
+1996,2,.84547782,labor force
+1997,2,.847974,labor force
+1998,2,.84784842,labor force
+1999,2,.84642136,labor force
+2000,2,.84525508,labor force
+2001,2,.84327674,labor force
+2002,2,.84168583,labor force
+2003,2,.83824998,labor force
+2004,2,.83582145,labor force
+2005,2,.83535117,labor force
+2006,2,.83600205,labor force
+2007,2,.83680141,labor force
+2008,2,.83932036,labor force
+2009,2,.84014964,labor force
+2010,2,.8374182,labor force
+2011,2,.83097416,labor force
+2012,2,.82816333,labor force
+2013,2,.82302237,labor force
+2014,2,.81946421,labor force
+2015,2,.81812608,labor force
+2016,2,.82209867,labor force
+2017,2,.82459122,labor force
+2018,2,.82871765,labor force
+2019,2,.83017844,labor force
+1962,3,.63743681,labor force
+1963,3,.64215302,labor force
+1964,3,.63871497,labor force
+1965,3,.63453019,labor force
+1966,3,.6298548,labor force
+1967,3,.62624431,labor force
+1968,3,.63376331,labor force
+1969,3,.62955052,labor force
+1970,3,.63553852,labor force
+1971,3,.63610351,labor force
+1972,3,.62185013,labor force
+1973,3,.60701293,labor force
+1974,3,.60380512,labor force
+1975,3,.600137,labor force
+1976,3,.58766299,labor force
+1977,3,.58314115,labor force
+1978,3,.5792349,labor force
+1979,3,.57816452,labor force
+1980,3,.57301593,labor force
+1981,3,.56820863,labor force
+1982,3,.57538635,labor force
+1983,3,.57030809,labor force
+1984,3,.56436539,labor force
+1985,3,.56124026,labor force
+1986,3,.55942404,labor force
+1987,3,.56023127,labor force
+1988,3,.55985761,labor force
+1989,3,.56904203,labor force
+1990,3,.57296818,labor force
+1991,3,.57321441,labor force
+1992,3,.58412009,labor force
+1993,3,.58403081,labor force
+1994,3,.58608198,labor force
+1995,3,.58831096,labor force
+1996,3,.59367543,labor force
+1997,3,.60191631,labor force
+1998,3,.60658509,labor force
+1999,3,.60552078,labor force
+2000,3,.60594809,labor force
+2001,3,.6185599,labor force
+2002,3,.63706535,labor force
+2003,3,.64076197,labor force
+2004,3,.63794756,labor force
+2005,3,.64319104,labor force
+2006,3,.64885545,labor force
+2007,3,.65224022,labor force
+2008,3,.66152006,labor force
+2009,3,.67261374,labor force
+2010,3,.67493558,labor force
+2011,3,.66914046,labor force
+2012,3,.66805333,labor force
+2013,3,.66493583,labor force
+2014,3,.66082507,labor force
+2015,3,.6548214,labor force
+2016,3,.65723723,labor force
+2017,3,.65959764,labor force
+2018,3,.66337734,labor force
+2019,3,.66594106,labor force
+1962,4,.23394719,labor force
+1963,4,.2163578,labor force
+1964,4,.22266963,labor force
+1965,4,.21808021,labor force
+1966,4,.20099568,labor force
+1967,4,.18852472,labor force
+1968,4,.19574696,labor force
+1969,4,.19633229,labor force
+1970,4,.20053905,labor force
+1971,4,.19072954,labor force
+1972,4,.1881329,labor force
+1973,4,.16957334,labor force
+1974,4,.16762462,labor force
+1975,4,.18303472,labor force
+1976,4,.17712459,labor force
+1977,4,.17634143,labor force
+1978,4,.16751377,labor force
+1979,4,.1625219,labor force
+1980,4,.1525021,labor force
+1981,4,.1508799,labor force
+1982,4,.15169114,labor force
+1983,4,.15057343,labor force
+1984,4,.14011019,labor force
+1985,4,.13618171,labor force
+1986,4,.13684906,labor force
+1987,4,.13291168,labor force
+1988,4,.13743271,labor force
+1989,4,.1419609,labor force
+1990,4,.14491709,labor force
+1991,4,.14442345,labor force
+1992,4,.14750053,labor force
+1993,4,.14035712,labor force
+1994,4,.1592302,labor force
+1995,4,.15731819,labor force
+1996,4,.1526368,labor force
+1997,4,.15092683,labor force
+1998,4,.15114082,labor force
+1999,4,.15383834,labor force
+2000,4,.15817665,labor force
+2001,4,.15928252,labor force
+2002,4,.16532725,labor force
+2003,4,.1742253,labor force
+2004,4,.17772755,labor force
+2005,4,.18234935,labor force
+2006,4,.1818298,labor force
+2007,4,.19074008,labor force
+2008,4,.20563717,labor force
+2009,4,.22605307,labor force
+2010,4,.22985128,labor force
+2011,4,.23422873,labor force
+2012,4,.23795047,labor force
+2013,4,.23204356,labor force
+2014,4,.22686511,labor force
+2015,4,.22390434,labor force
+2016,4,.22618952,labor force
+2017,4,.22638637,labor force
+2018,4,.22555716,labor force
+2019,4,.22944887,labor force
